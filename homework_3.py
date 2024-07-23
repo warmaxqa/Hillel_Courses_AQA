@@ -40,16 +40,16 @@ total_product = 375291
 warehouse_1_to_2 = 250449
 warehouse_2_to_3 = 222950
 
-# Загальна кількість товарів на складі = x + y + z
+# Загальна кількість товарів на складі = y + x + z
 
 #Кількість товарів на першому складі
-y = warehouse_1_to_2 + warehouse_2_to_3 - total_product
+y = total_product - warehouse_2_to_3
 
 #Кількість товарів на другому складі
 x = warehouse_1_to_2 - y
 
 #Кількість товарів на третьому складі
-z = warehouse_2_to_3 - y
+z = total_product - warehouse_1_to_2
 
 print(f'Кількість товарів на першому сладі {y}')
 print(f'Кількість товарів на другому складі {x}')
