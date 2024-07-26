@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d650e295-717b-4561-978a-ab99382eb834" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Hillel_AQA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_01/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_01/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_1_original.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_01/homework_1_original.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_01/homework_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
-    </list>
+    <list default="true" id="d650e295-717b-4561-978a-ab99382eb834" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +78,7 @@
       <workItem from="1721924250836" duration="961000" />
       <workItem from="1721978335810" duration="7861000" />
       <workItem from="1721993330433" duration="303000" />
-      <workItem from="1721995589215" duration="4284000" />
+      <workItem from="1721995589215" duration="4584000" />
     </task>
     <servers />
   </component>
